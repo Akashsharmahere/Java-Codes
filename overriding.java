@@ -8,7 +8,7 @@ class animal{
 		 System.out.println("dog is also a animal and it barks");
 	 }
  }
- public class overriding{
+ public class overriding{ 
 	 public static void main(String[] args) {
 		 animal a= new animal();
 		 a.display();
