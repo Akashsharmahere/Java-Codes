@@ -14,7 +14,7 @@ enum Level {
             System.out.println("medium level");
             break;
             case HIGH:
-            System.out.println("high level");
+            System.out.println("high level"); 
             break;
         }
         }
