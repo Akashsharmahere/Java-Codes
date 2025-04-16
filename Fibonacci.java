@@ -6,7 +6,7 @@ public class Fibonacci {
             System.out.print(a + " ");
             int sum = a + b;
             a = b;
-            b = sum;
+            b = sum ;
         }
     }
 }
